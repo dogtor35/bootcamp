@@ -1,0 +1,5 @@
+ilk sýralayalým[0,1,2,3,4,5,6,7,8,9]
+              4 belirleyelim
+         2 solda                    7 saðda
+  1 solda           3 saðda    6 solda   8 saðda
+0 solda                     5 solda             9 saðda
