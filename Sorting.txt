@@ -1,0 +1,16 @@
+[22,27,16,2,18,6] 
+ilk aþama 22 ile 2 deðiþimi [2,27,16,22,18,6]
+ikinci aþama 27 ile 6 deðiþimi [2,6,16,22,18,27]
+üçüncü aþama 22 ile 18 deðiþimi [2,6,16,18,22,27]
+
+Big o notaion n2 3*3=9
+
+18 avarage case
+
+[7,3,5,8,2,9,4,15,6]
+ilk aþamada 7 ile 2 deðiþimi
+ikinci aþamada 5 ile 4 deðiþimi
+üçüncü aþamada 8 ile 5 deðiþimi
+dündürcü aþamada 7 ile 6 deðiþimi
+
+
