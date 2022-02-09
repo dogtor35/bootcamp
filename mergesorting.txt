@@ -1,0 +1,7 @@
+[16,21,11,8,12,22] listeyi ikiye böldük
+[16,21,11] ve [8,12,22] bunlarýda ikiye böldük
+[16,21],[11] ve [8,12], [22]
+[11,16,21] ve [8,12,22] bunlarýda kendi aralarýnda
+[8,11,12,16,21,22]
+
+4log4=x
